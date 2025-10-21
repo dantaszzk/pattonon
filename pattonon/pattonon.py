@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# PASTRONG - Password Strength Checker CLI
-
 import re
 
 def print_banner():
@@ -61,3 +58,4 @@ def main_menu():
 if __name__ == "__main__":
     print_banner()
     main_menu()
+
